@@ -1,4 +1,4 @@
-# <img src="pix/cabinet6-avatar-circle-white.png" width="50"> cabinet6
+# <img src="pix/cabinet6-mark-adaptive-light.svg" width="50"> cabinet6
 
 ***c6*** is a (fp-focused) collection of zero-dependency libraries you can drop into your project like header files.
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
