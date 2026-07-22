@@ -86,6 +86,24 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
     <b>pg_pipeline</b>: pipelines in Postgres
   </p>
 
+  <p align="center">
+    <a href="https://github.com/mattlianje/dbos4s/tree/master">
+      <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/dbos4s.png"
+  alt="dbos4s" width="160"/>
+    </a>
+    <br/>
+    <b>dbos4s</b>: durable execution
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/mattlianje/cb/tree/master">
+      <img src="https://raw.githubusercontent.com/mattlianje/cb/master/pix/pet.png"
+  alt="cb" width="160"/>
+    </a>
+    <br/>
+    <b>cb</b>: codebase introspection
+  </p>
+
 
 
 ### Inspiration
