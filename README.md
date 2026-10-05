@@ -1,6 +1,6 @@
 # <img src="pix/cabinet6-mark-adaptive-light.svg" width="50"> c6
 
-***cabinet6*** is a (fp-focused) collection of zero-dependency libraries you can drop into your project like header files.
+***c6*** is a (fp-focused) collection of zero-dependency libraries you can drop into your project like header files.
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
 > Solve 90% problems without 900% frameworks
 
