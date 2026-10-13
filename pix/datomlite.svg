@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.38513009"
-     inkscape:cx="386.88226"
-     inkscape:cy="551.76161"
+     inkscape:zoom="0.3754278"
+     inkscape:cx="932.26979"
+     inkscape:cy="632.61164"
      inkscape:window-width="1488"
      inkscape:window-height="884"
      inkscape:window-x="74"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -93,7 +93,7 @@
        x2="178.59453"
        y2="165.55201"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0481254,0,0,1.0481255,-7.2663482,-7.8259448)" />
+       gradientTransform="matrix(1.0481254,0,0,1.0481255,-8.4721774,15.240164)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -108,15 +108,25 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter6"
-       x="-0.018455989"
-       y="-0.017923743"
-       width="1.036912"
-       height="1.0358475">
+       x="-0.018309047"
+       y="-0.01839693"
+       width="1.0366181"
+       height="1.0367939">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.74119488"
          id="feGaussianBlur6" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0481254,0,0,1.0481255,-9.3133408,-9.7060971)"
+       x1="86.636327"
+       y1="165.55201"
+       x2="178.59453"
+       y2="165.55201" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -144,27 +154,39 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.423px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:url(#linearGradient4);stroke-width:1.85652"
-       x="63.581917"
-       y="229.16272"
+       x="62.376091"
+       y="252.22884"
        id="text3"
        transform="scale(1.1689078,0.85549946)"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="fill:url(#linearGradient4);fill-opacity:0.904891;stroke-width:1.85652"
-         x="63.581917"
-         y="229.16272">±</tspan></text>
+         x="62.376091"
+         y="252.22884" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.423px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient7);stroke-width:1.85652"
+       x="61.534931"
+       y="227.28258"
+       id="text3-23"
+       transform="scale(1.1689078,0.85549946)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="fill:url(#linearGradient7);fill-opacity:0.904891;stroke-width:1.85652"
+         x="61.534931"
+         y="227.28258">+</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.423px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.7225;fill:url(#linearGradient5);stroke-width:1.85652;filter:url(#filter6)"
        x="67.040688"
        y="224.06247"
        id="text3-2"
-       transform="matrix(1.1689078,0,0,0.85549946,3.4349853,-0.68699722)"
+       transform="matrix(1.1689078,0,0,0.85549946,1.3207306,0.0177541)"
        inkscape:transform-center-x="13.052949"><tspan
          sodipodi:role="line"
          id="tspan3-2"
          style="fill:url(#linearGradient5);fill-opacity:0.904891;stroke-width:1.85652"
          x="67.040688"
-         y="224.06247">±</tspan></text>
+         y="224.06247">+</tspan></text>
   </g>
 </svg>
