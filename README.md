@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/mattlianje/cabinet6/refs/heads/master/pix/d4.png" width="60"> c6
+# <img src="https://raw.githubusercontent.com/mattlianje/cabinet6/refs/heads/master/pix/d4.png" width="45"> c6
 
 **cabinet6** is a (fp-focused) collection of zero-dependency libraries you can drop into your project like header files.
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
